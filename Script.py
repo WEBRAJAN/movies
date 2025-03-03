@@ -261,7 +261,7 @@ User - {}"""
 
 1 Month 80 Rupees
 
- <code> paste here your upi id </code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+ <code> paytmqr505jvh@ptys </code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
